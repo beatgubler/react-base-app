@@ -29,4 +29,4 @@ Now optimized for React 17!
 
 
 ## Known issues/concerns
-* firebase security rules are not restrictive enough
+* firebase security rules are not restrictive enough.
