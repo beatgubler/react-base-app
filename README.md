@@ -9,7 +9,7 @@ Feel free to leave your suggestions, problems, safety concerns or questions in t
 * local and Google authentication
 * persistent login
 
-#### Livepreview: [https://beatgubler.github.io/osbapp/](https://beatgubler.github.io/osbapp/)
+#### Livepreview: [https://react-base-app.gubler-it.com](https://react-base-app.gubler-it.com)
 Now optimized for React 17!
 
 ![oscapp.io [Preview]](https://i.imgur.com/5aglXqM.png)
