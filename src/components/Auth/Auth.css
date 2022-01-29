@@ -1,0 +1,15 @@
+.invalid {
+  border: 1px solid rgb(230, 114, 114);
+}
+
+.invalid:focus {
+  border: 1px solid rgb(230, 114, 114);
+}
+
+.loginButtons {
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+}
