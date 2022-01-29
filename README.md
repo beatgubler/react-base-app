@@ -12,7 +12,7 @@ Feel free to leave your suggestions, problems, safety concerns or questions in t
 #### Livepreview: [https://react-base-app.gubler-it.com](https://react-base-app.gubler-it.com)
 Now optimized for React 17!
 
-![oscapp.io [Preview]](https://i.imgur.com/5aglXqM.png)
+![react-base-app [Preview]](https://i.imgur.com/LKFXyZf.png)
 
 ## Installation
 * Install NodeJS -> https://nodejs.org/en/download/
@@ -29,4 +29,5 @@ Now optimized for React 17!
 
 
 ## Known issues/concerns
-* firebase security rules are not restrictive enough.
+* firebase security rules are not restrictive enough
+* firebase modular API should be used
